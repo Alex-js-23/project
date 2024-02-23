@@ -1,0 +1,29 @@
+
+
+h2 {
+	color: red;
+	text-align: center;
+	font-weight: 100;
+	font-style: italic;
+	/* text-decoration: underline; */
+	text-decoration: line-through;
+	font-size: 30px;
+}
+
+
+.chapter {
+	/* color: #fd9a69;  Hex method*/
+	color: rgba(255,20 ,147,1);
+
+}
+
+.textOne{
+	font-weight: 900;
+	text-transform: uppercase;
+}
+#begin {
+	color: orange;
+	font-weight: bold;
+}
+
+

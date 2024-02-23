@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../sass scss/style.sass"
+	],
+	"sourcesContent": [
+		"h1 {\n\tcolor: red;\n\tfont-size: 50px; }\n\nh2 {\n\tcolor: blue; }\n\n.block {\n\tbackground-color: black;\n\th3 {\n\t\tcolor: white; }\n\t&_color {\n\t\tbackground-color: #fff; } }\n"
+	],
+	"names": [],
+	"mappings": ";;AAAA,AAAA,EAAE,CAAC;EACF,KAAK,EAAE,GAAG;EACV,SAAS,EAAE,IAAI;CAAG;;;AAEnB,AAAA,EAAE,CAAC;EACF,KAAK,EAAE,IAAI;CAAG;;;AAEf,AAAA,MAAM,CAAC;EACN,gBAAgB,EAAE,KAAK;CAIK;;;AAL7B,AAEC,MAFK,CAEL,EAAE,CAAC;EACF,KAAK,EAAE,KAAK;CAAG;;;AACf,AAAD,YAAO,CAAC;EACP,gBAAgB,EAAE,IAAI;CAAG"
+}
